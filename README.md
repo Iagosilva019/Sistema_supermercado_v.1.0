@@ -24,6 +24,12 @@ Sistema de Supermercado em tkinter
  <img align="center" alt="Iago-Terminal" width="30" height="30" src="https://user-images.githubusercontent.com/92806149/222975781-66859ae2-3190-433d-8d6d-f00e373fecca.png"  style="margin:50px">
 </div><br>
 
+ <img align="center" alt="Iago-Terminal" width="30" height="30" src="https://github.com/Iagosilva019/Sistema_supermercado_v.1.0/assets/92806149/e72979a8-f4f8-4a5a-8656-9280ddb38bbf"  style="margin:50px">
+</div><br>
+
+
+
+
 
 # COMO INSTALAR E EXECUTAR:
 
